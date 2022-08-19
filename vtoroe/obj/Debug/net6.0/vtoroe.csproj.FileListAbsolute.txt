@@ -1,0 +1,15 @@
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\bin\Debug\net6.0\vtoroe.exe
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\bin\Debug\net6.0\vtoroe.deps.json
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\bin\Debug\net6.0\vtoroe.runtimeconfig.json
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\bin\Debug\net6.0\vtoroe.dll
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\bin\Debug\net6.0\vtoroe.pdb
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\vtoroe.csproj.AssemblyReference.cache
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\vtoroe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\vtoroe.AssemblyInfoInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\vtoroe.AssemblyInfo.cs
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\vtoroe.csproj.CoreCompileInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\vtoroe.dll
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\refint\vtoroe.dll
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\vtoroe.pdb
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\vtoroe.genruntimeconfig.cache
+C:\Users\днс\OneDrive\Рабочий стол\vtzadanie\vtoroe\obj\Debug\net6.0\ref\vtoroe.dll
